@@ -18,4 +18,6 @@ Hola, soy Manuel 👋<br>Soy un entusiasta de la programación y actualmente est
 ---
 [![](https://visitcount.itsvg.in/api?id=manueeeeeeo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!--Snake-->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
