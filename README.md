@@ -8,7 +8,8 @@ Hola, soy Manuel 👋<br>Soy un entusiasta de la programación y actualmente est
 
 - 🎬 [Aplicación IMDB](https://github.com/manueeeeeeo/Engenios_ManuelIMDbApp_V2.0)  
 - 🚴 [Aplicación Compartir Bicicleta](https://github.com/manueeeeeeo/SHARED_MY_BIKE)
-- ▶️ [Reproductor Multimedia](https://github.com/manueeeeeeo/TAREA_MULTIMEDIA) 
+- ▶️ [Reproductor Multimedia](https://github.com/manueeeeeeo/TAREA_MULTIMEDIA)
+- ♟️ [Ribera Deffense - Juego Estrátegia](https://github.com/manueeeeeeo/RIBERA-DEFFENSE.git)
 
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=manueeeeeeo&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true)<br/>
